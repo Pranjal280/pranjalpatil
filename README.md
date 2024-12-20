@@ -33,7 +33,7 @@ Setup and Installation
 Follow these steps to run the project locally:
 
 1. Clone the Repository
-git clone https://github.com/AbdulSarban/P3-Spam-Email-Classification-Using-NLP-and-Machine-Learning.git
+git clone https://github.com/pranjalpatil/P3-Spam-Email-Classification-Using-NLP-and-Machine-Learning.git
 cd P3-Spam-Email-Classification-Using-NLP-and-Machine-Learning
 2. Create a Virtual Environment
 Windows
